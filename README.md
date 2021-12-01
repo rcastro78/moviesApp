@@ -12,7 +12,9 @@ Kotlin
 #Funcionalidad.
 
 Ver seccion de peliculas y series de tv
+
 Reproducción del trailer en el detalle de la película
+
 Busqueda de peliculas o series 
 
 <b>Librerías utilizadas</b>
