@@ -32,3 +32,9 @@ Pendiente
 Caché de imágenes 
 
 https://developers.themoviedb.org/3
+
+Aquí se encuentra el APK
+https://github.com/rcastro78/moviesApp/blob/master/app/release/app-release.apk
+
+
+
